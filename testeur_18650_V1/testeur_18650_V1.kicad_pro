@@ -713,7 +713,7 @@
         "uuid": "fe6440a2-7b93-4489-8d7b-2b349abbe284"
       }
     ],
-    "used_designators": "#PWR1-38,#PWR101-106,#PWR109-110,#PWR117-158,Batt_Holder1-2,C1-9,C11-12,C16-21,D1-8,J1-3,JP1-3,P1,Q1-8,R1-47,RV2,SW1,U1-12,Y1",
+    "used_designators": "#PWR1-39,#PWR101-106,#PWR109-110,#PWR117-160,Batt_Holder1-2,C1-9,C11-12,C16-21,D1-8,J1-3,JP1-3,P1,Q1-8,R1-47,RV2,SW1,U1-12,Y1",
     "variants": []
   },
   "sheets": [
